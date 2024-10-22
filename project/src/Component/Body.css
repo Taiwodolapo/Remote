@@ -1,0 +1,29 @@
+.Container{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 140px;
+    
+}
+
+.Make p{
+    padding-bottom: 10px;
+}
+.Make{
+    padding-top: 60px;
+}
+.Make h2{
+    font-size: 50px;
+}
+
+.Button{
+    padding: 10px 20px;
+    background: black;
+    color: aliceblue;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.Image img {
+width: 350px;
+height: 450px;
+padding-top: -50px;
+}

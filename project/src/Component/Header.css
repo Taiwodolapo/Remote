@@ -1,0 +1,33 @@
+.Snap{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.Snap p{
+    font-size: 12px;
+    font-weight: bold;
+}
+.Nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+.button{
+    display: flex;
+    gap: 30px;
+}
+
+.button button{
+    border-style: none;
+    background: none;
+    font-weight: bold;
+}
+#Register {
+    border: 1px solid;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.Snap h1{
+    font-size: 20px;
+}
